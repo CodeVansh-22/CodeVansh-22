@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=95&lines=Hi+there%2C+I'm+Vansh+Chauhan+%F0%9F%91%8B;Aspiring+Data+Analyst+%7C+Python+%E2%80%A2+SQL+%E2%80%A2+Data+Viz" alt="Typing SVG" />
 </a>
 ​<p>
-<strong>Turning raw data into clear, actionable business insights.</strong><br/>
+<strong>Turning raw data into clear, actionable business insights.</strong><br />
 BCA Graduate (2026) • Aspiring Data Analyst • Mumbai, India
 </p>
 ​<!-- Profile Badges -->
@@ -27,10 +27,9 @@ BCA Graduate (2026) • Aspiring Data Analyst • Mumbai, India
 ​📊 Current Focus: Data Analysis & Visualization with Python (NumPy, Pandas, Matplotlib, Seaborn), SQL, and Excel
 ​💼 Open To: Entry-level Data Analyst and Python / Analytics Intern roles
 ​⚡ Fun Fact: Outside of datasets and charts, I'm a photography enthusiast (@_vanshclicks22_) and a huge fan of retro Bollywood cinema.
-​<!-- Interactive Collapsible Section -->
-<details>
+​<details>
 <summary><b>📂 Click to view my Experience & Learning Journey</b></summary>
-<br/>
+​<br />
 ​Backend Lead Intern — Humble Walking: Led server-side development tasks, API workflows, and database integration.
 ​Tech & Web Contributor — InAmigos Foundation (NGO): Built AI portfolio components and improved web responsiveness.
 ​Data Analytics Training: Hands-on practice in Python (NumPy, Pandas, Matplotlib, Seaborn), SQL querying, data cleaning, and descriptive/inferential statistics.
@@ -53,7 +52,7 @@ BCA Graduate (2026) • Aspiring Data Analyst • Mumbai, India
 ​04 · Visualize & Present: Building clear charts and visual stories with Matplotlib & Seaborn
 ​<details>
 <summary><b>💻 View vansh_profile.py (Quick Snapshot)</b></summary>
-<br/>
+​<br />
 analyst = {
     "name": "Vansh Chauhan",
     "role": "Aspiring Data Analyst",
@@ -71,8 +70,6 @@ analyst = {
 <a href="https://www.linkedin.com/in/vanshchauhan22">
 <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Vansh" />
 </a>
-
-
-
+<br /><br />
 <sub>💡 <i>"Without data, you're just another person with an opinion."</i> — W. Edwards Deming</sub>
 </div>
