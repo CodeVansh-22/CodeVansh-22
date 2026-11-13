@@ -1,21 +1,71 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>- **EduSphere** – An online learning platform designed to provide structured courses and a modern learning experience for students.  <br>- **ActiveLife** – An AI-powered fitness management web application that generates BMI-based workout and diet plans with personalized recommendations.<br><br>👯 I’m looking to collaborate on  <br>- Full-stack web applications  <br>- EdTech platforms and productivity tools  <br>- Open-source projects related to web development<br><br>🤝 I’m looking for help with  <br>- Scaling web applications  <br>- Backend optimization and system design  <br>- Advanced AI integrations in web apps<br><br>🌱 I’m currently learning  <br>- Advanced **React.js** for modern frontend development  <br>- Building scalable **backend APIs**  <br>- Integrating **AI features into web platforms**<br><br>💬 Ask me about  <br>- **Flask backend development**  <br>- **Frontend development (HTML, CSS, JavaScript)**  <br>- Building full-stack web applications<br><br>⚡ Fun fact  <br>I enjoy turning real-world ideas into web applications and continuously experimenting with new technologies while building projects.
+<div align="center">
+​<!-- Animated Typing Header -->
+<a href="https://github.com/CodeVansh-22">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=95&lines=Hi+there%2C+I'm+Vansh+Chauhan+%F0%9F%91%8B;Aspiring+Data+Analyst+%7C+SQL+%E2%80%A2+Python+%E2%80%A2+BI" alt="Typing SVG" />
+</a>
+​<p>
+<strong>Turning raw data into clear, actionable business insights.</strong><br/>
+BCA Graduate (2026) • Backend & Python Developer transitioning into Data Analytics • Mumbai, India
+</p>
+​<!-- Profile Badges -->
+<p>
+<a href="https://github.com/CodeVansh-22">
+<img src="https://img.shields.io/badge/GitHub-CodeVansh--22-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:vanshchauhand@gmail.com">
+<img src="https://img.shields.io/badge/Email-vanshchauhand%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/vanshchauhan22">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=CodeVansh-22&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
+</p>
+​</div>
+​👨‍💻 About Me
+​I'm Vansh Chauhan, an aspiring Data Analyst with a strong foundation in Python, SQL, Data Cleaning, and Exploratory Data Analysis (EDA), backed by real-world experience in backend engineering and web development. I enjoy uncovering patterns in messy datasets, building clean analytical pipelines, and presenting insights through clear visualizations.
+​🎓 Education: Bachelor of Computer Applications (BCA, 2026) — Thakur Shyamnarayan Degree College (YCMOU)
+​📊 Current Focus: End-to-end Data Analytics projects using MySQL, Python (Pandas, NumPy), Excel, and BI Dashboards
+​💼 Open To: Entry-level Data Analyst, Business/Product Analyst, and Python/SQL Developer roles or internships
+​⚡ Fun Fact: Outside of datasets and dashboards, I'm a photography enthusiast (@_vanshclicks22_) and a huge fan of retro Bollywood cinema.
+​<!-- Interactive Collapsible Section -->
+<details>
+<summary><b>📂 Click to view my Experience & Current Learning Roadmap</b></summary>
+<br/>
+​Backend Lead Intern — Humble Walking: Led server-side development tasks, API workflows, and database integration.
+​Tech & Web Contributor — InAmigos Foundation (NGO): Built AI portfolio components and improved web responsiveness.
+​Data Analytics Training: Completed hands-on coursework in SQL querying, data cleaning, data structures, descriptive & inferential statistics, and Python (NumPy, Pandas).
+​</details>
+​🛠️ Data Analytics & Tech Stack
+​<div align="center">
+​📊 Data Analysis, Visualization & BI
+​🗄️ Databases & Backend Engineering
+​🧰 Tools & Platforms
+​<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=py,mysql,mongodb,sqlite,flask,react,js,html,css,git,github,vscode&theme=dark&perline=6" alt="Skill Icons" />
+</a>
+</p>
+​</div>
+​📊 Live GitHub Analytics
+​<div align="center">
+​<p>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=CodeVansh-22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="Vansh's GitHub Stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeVansh-22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&langs_count=6" alt="Top Languages" />
+</p>
+​<p>
+<img src="https://streak-stats.demolab.com/?user=CodeVansh-22&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+</p>
+​</div>
+​<div align="center">
+​🤝 Let's Connect & Collaborate on Data Projects!
+​<a href="mailto:vanshchauhand@gmail.com">
+<img src="https://img.shields.io/badge/Send_an_Email-vanshchauhand%40gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vansh" />
+</a>
+<a href="https://www.linkedin.com/in/vanshchauhan22">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Vansh" />
+</a>
+​
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vansh_.022._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh-chauhan-295672238) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshchauhand@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CodeVansh-22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CodeVansh-22&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeVansh-22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=CodeVansh-22&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<sub>💡 <i>"Without data, you're just another person with an opinion."</i> — W. Edwards Deming</sub>
+​</div>
