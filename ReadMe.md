@@ -21,7 +21,8 @@ BCA Graduate (2026) • Aspiring Data Analyst • Mumbai, India
 <img src="https://komarev.com/ghpvc/?username=CodeVansh-22&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
 </p>
 ​</div>
-​👨‍💻 About Me
+<h1>​<b>👨‍💻 About Me</b></h1>
+
 ​I'm Vansh Chauhan, an aspiring Data Analyst with a strong foundation in Python, Data Cleaning, Exploratory Data Analysis (EDA), and Data Visualization using NumPy, Pandas, Matplotlib, and Seaborn, along with SQL and web fundamentals. I enjoy uncovering patterns in messy datasets and turning numbers into clear, visual stories.
 ​🎓 Education: Bachelor of Computer Applications (BCA, 2026) — Thakur Shyamnarayan Degree College (YCMOU)
 ​📊 Current Focus: Data Analysis & Visualization with Python (NumPy, Pandas, Matplotlib, Seaborn), SQL, and Excel
