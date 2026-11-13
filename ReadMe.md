@@ -46,26 +46,33 @@ BCA Graduate (2026) • Aspiring Data Analyst • Mumbai, India
 </a>
 </p>
 ​</div>
-​📊 Live GitHub Analytics
-​<div align="center">
-​<p>
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=CodeVansh-22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="Vansh's GitHub Stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeVansh-22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&langs_count=6" alt="Top Languages" />
-</p>
-​<p>
-<img src="https://streak-stats.demolab.com/?user=CodeVansh-22&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
-</p>
-​</div>
-​<div align="center">
-​🤝 Let's Connect & Collaborate on Data Projects!
-​<a href="mailto:vanshchauhand@gmail.com">
+​🔬 My Data Analytics Workflow
+​01 · Collect & Query: Extracting structured data using SQL (MySQL) and CSV / Excel datasets
+​02 · Clean & Transform: Handling missing values, outliers, and formatting with Pandas & NumPy
+​03 · Explore & Analyze: Uncovering trends, KPIs, and correlations through Exploratory Data Analysis (EDA)
+​04 · Visualize & Present: Building clear charts and visual stories with Matplotlib & Seaborn
+​<details>
+<summary><b>💻 View vansh_profile.py (Quick Snapshot)</b></summary>
+<br/>
+analyst = {
+    "name": "Vansh Chauhan",
+    "role": "Aspiring Data Analyst",
+    "location": "Mumbai, India",
+    "core_stack": ["Python", "NumPy", "Pandas", "Matplotlib", "Seaborn", "SQL", "Excel"],
+    "web_basics": ["HTML", "CSS", "JavaScript", "React"],
+    "mindset": "Clean data first, meaningful insights always."
+}
+</details>
+<div align="center">
+🤝 Let's Connect & Collaborate on Data Projects!
+<a href="mailto:vanshchauhand@gmail.com">
 <img src="https://img.shields.io/badge/Send_an_Email-vanshchauhand%40gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vansh" />
 </a>
 <a href="https://www.linkedin.com/in/vanshchauhan22">
 <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Vansh" />
 </a>
-​
+
 
 
 <sub>💡 <i>"Without data, you're just another person with an opinion."</i> — W. Edwards Deming</sub>
-​</div>
+</div>
