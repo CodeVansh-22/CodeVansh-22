@@ -1,11 +1,11 @@
 <div align="center">
 ​<!-- Animated Typing Header -->
 <a href="https://github.com/CodeVansh-22">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=95&lines=Hi+there%2C+I'm+Vansh+Chauhan+%F0%9F%91%8B;Aspiring+Data+Analyst+%7C+SQL+%E2%80%A2+Python+%E2%80%A2+BI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=95&lines=Hi+there%2C+I'm+Vansh+Chauhan+%F0%9F%91%8B;Aspiring+Data+Analyst+%7C+Python+%E2%80%A2+SQL+%E2%80%A2+Data+Viz" alt="Typing SVG" />
 </a>
 ​<p>
 <strong>Turning raw data into clear, actionable business insights.</strong><br/>
-BCA Graduate (2026) • Backend & Python Developer transitioning into Data Analytics • Mumbai, India
+BCA Graduate (2026) • Aspiring Data Analyst • Mumbai, India
 </p>
 ​<!-- Profile Badges -->
 <p>
@@ -22,27 +22,27 @@ BCA Graduate (2026) • Backend & Python Developer transitioning into Data Analy
 </p>
 ​</div>
 ​👨‍💻 About Me
-​I'm Vansh Chauhan, an aspiring Data Analyst with a strong foundation in Python, SQL, Data Cleaning, and Exploratory Data Analysis (EDA), backed by real-world experience in backend engineering and web development. I enjoy uncovering patterns in messy datasets, building clean analytical pipelines, and presenting insights through clear visualizations.
+​I'm Vansh Chauhan, an aspiring Data Analyst with a strong foundation in Python, Data Cleaning, Exploratory Data Analysis (EDA), and Data Visualization using NumPy, Pandas, Matplotlib, and Seaborn, along with SQL and web fundamentals. I enjoy uncovering patterns in messy datasets and turning numbers into clear, visual stories.
 ​🎓 Education: Bachelor of Computer Applications (BCA, 2026) — Thakur Shyamnarayan Degree College (YCMOU)
-​📊 Current Focus: End-to-end Data Analytics projects using MySQL, Python (Pandas, NumPy), Excel, and BI Dashboards
-​💼 Open To: Entry-level Data Analyst, Business/Product Analyst, and Python/SQL Developer roles or internships
-​⚡ Fun Fact: Outside of datasets and dashboards, I'm a photography enthusiast (@_vanshclicks22_) and a huge fan of retro Bollywood cinema.
+​📊 Current Focus: Data Analysis & Visualization with Python (NumPy, Pandas, Matplotlib, Seaborn), SQL, and Excel
+​💼 Open To: Entry-level Data Analyst and Python / Analytics Intern roles
+​⚡ Fun Fact: Outside of datasets and charts, I'm a photography enthusiast (@_vanshclicks22_) and a huge fan of retro Bollywood cinema.
 ​<!-- Interactive Collapsible Section -->
 <details>
-<summary><b>📂 Click to view my Experience & Current Learning Roadmap</b></summary>
+<summary><b>📂 Click to view my Experience & Learning Journey</b></summary>
 <br/>
 ​Backend Lead Intern — Humble Walking: Led server-side development tasks, API workflows, and database integration.
 ​Tech & Web Contributor — InAmigos Foundation (NGO): Built AI portfolio components and improved web responsiveness.
-​Data Analytics Training: Completed hands-on coursework in SQL querying, data cleaning, data structures, descriptive & inferential statistics, and Python (NumPy, Pandas).
+​Data Analytics Training: Hands-on practice in Python (NumPy, Pandas, Matplotlib, Seaborn), SQL querying, data cleaning, and descriptive/inferential statistics.
 ​</details>
-​🛠️ Data Analytics & Tech Stack
+​🛠️ Skills & Platforms
 ​<div align="center">
-​📊 Data Analysis, Visualization & BI
-​🗄️ Databases & Backend Engineering
+​📊 Data Analysis & Python Libraries
+​🌐 Web Development (Basics)
 ​🧰 Tools & Platforms
 ​<p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,mysql,mongodb,sqlite,flask,react,js,html,css,git,github,vscode&theme=dark&perline=6" alt="Skill Icons" />
+<img src="https://skillicons.dev/icons?i=py,mysql,html,css,js,react,git,github,vscode&theme=dark&perline=9" alt="Skill Icons" />
 </a>
 </p>
 ​</div>
