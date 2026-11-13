@@ -3,7 +3,8 @@
 
 <!-- Animated Header -->
 <a href="https://github.com/CodeVansh-22">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=95&lines=Hi+there%2C+I'm+Vansh+Chauhan+%F0%9F%91%8B;Aspiring+Data+Analyst+%7C+Python+%E2%80%A2+SQL+%E2%80%A2+Data+Viz" alt="Typing SVG" />
+<a href="https://github.com/CodeVansh-22">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=110&lines=Hi+there%2C+I'm+Vansh+Chauhan+%F0%9F%91%8B;Aspiring+Data+Analyst+%7C+Python+%7C+SQL+%7C+Excel" alt="Typing SVG" />
 </a>
 
 ### Turning Raw Data into Clear, Actionable Business Insights.
