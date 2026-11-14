@@ -185,14 +185,14 @@ I follow a structured approach to analyze datasets and extract meaningful insigh
 
 # 🚀 Featured Projects
 
-### 📊 ActiveLife — Data Analytics / BCA Project
-
+### 📊 ActiveLife — A New Era Of Fitness/BCA Project
 A practical project developed as part of my BCA academic journey.
 
 - Worked on project development and implementation.
 - Explored application data and project functionality.
 - Applied programming and database concepts.
 - Focused on building a practical, real-world application.
+**Project:**[View ActiveLife](https://activelife-mu.vercel.app/)
 
 ### 🎓 EduSphere — Educational Web Platform
 
