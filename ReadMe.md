@@ -32,7 +32,7 @@
 
 Hello! I'm **Vansh Chauhan**, an aspiring **Data Analyst** and BCA graduate passionate about working with data, discovering meaningful patterns, and transforming raw information into actionable insights.
 
-I have a foundation in Python programming, Data Cleaning, Exploratory Data Analysis (EDA), Statistical Analysis, and Data Visualization. I enjoy exploring datasets, identifying trends, and presenting findings through meaningful visualizations.
+I have a foundation in Python programming, Data Cleaning, and Data Visualization. I enjoy exploring datasets, identifying trends, and presenting findings through meaningful visualizations.
 
 My goal is to develop practical analytical skills and solve real-world business problems through data-driven decision-making.
 
@@ -61,7 +61,7 @@ My goal is to develop practical analytical skills and solve real-world business 
 
 ### ⚡ Beyond Data
 
-Apart from technology and analytics, I'm passionate about photography 📸 (@_vanshclicks22_) and enjoy watching retro Bollywood cinema.
+Apart from technology and analytics, I'm passionate about photography 📸 (@_ _vanshclicks22_ _) and enjoy watching retro Bollywood cinema.
 
 ---
 
